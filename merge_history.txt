@@ -1,0 +1,2 @@
+Just checking merge history to see if the branch graph is displayed the way I want it to.
+	check_merge_history()
